@@ -7,7 +7,7 @@ bool palindorme(char ch[])
     {
         int j = 0;  // Le debut de la chaine
         int taille = strlen(ch) -1; // la taille de la chaine 
-        while(j < taille) // Tant que J inferieur a la taille de la chane
+        while(j < taille) // Tant que J inferieur a la taille de la chaine
         {
             if (ch[j] != ch[taille]) return false; 
             else j++; taille--;
