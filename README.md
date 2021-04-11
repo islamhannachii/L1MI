@@ -1,4 +1,5 @@
-APBIN.c:
+cette repository pour les étudiants de 1ere année licence math et informatique, module algorithme.
+APBIN.c: 
  action parameérée (fonction) permet de convertir un nombre en décimal vers le binaire utilisant deux solution
 
 binversdec.c:
@@ -27,7 +28,7 @@ suppressiondunelemnt.c:
  un algorithme permet de supprimer une valeur donnée dans un tableau
 
 supressionvalAC.x:
- deux actions paramétrées (fonction + procédure) qui vérifie si une valeur donnée existe dans un tableau puis la supprimer
+ deux actions paramétrées (fonction + procédure) qui vérifie si une valeur donnée existe dans un tableau puis la git supprimer
 
 listechainee.c:
  des actions parametrées pour remplir une liste chainées avec FIFO(First In First Out), LIFO(Last In First Out), supprimer un élement à partir d'une position donné et affichge de la liste.
