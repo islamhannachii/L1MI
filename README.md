@@ -1,6 +1,6 @@
 Cette repository pour les étudiants de 1ere année licence math et informatique, module algorithme.
 ****************************************************************************************************************
-APBIN.c: 
+APBIN.c:    \n
  action parameérée (fonction) permet de convertir un nombre en décimal vers le binaire utilisant deux solution
 ****************************************************************************************************************
 binversdec.c:
