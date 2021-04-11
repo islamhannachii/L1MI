@@ -1,10 +1,11 @@
-cette repository pour les étudiants de 1ere année licence math et informatique, module algorithme.
+Cette repository pour les étudiants de 1ere année licence math et informatique, module algorithme.
+****************************************************************************************************************
 APBIN.c: 
  action parameérée (fonction) permet de convertir un nombre en décimal vers le binaire utilisant deux solution
-
+****************************************************************************************************************
 binversdec.c:
  action paramétrée (fonction) permet de convertir un nombre binaire vers le décimal  utilisant deux solution
-
+****************************************************************************************************************
 MinMaxAC.c:
  deux actions paramétrées (deux fonctions) pour chercher le min et le max du tableau
 
@@ -19,7 +20,7 @@ NbrPremieralgo.c:
 
 palindrome.c:
  action paramétrée (fonction) qui vérifie si un une chaine saisai est un palindrome, utilisant deux méthode. 
- exemple: 'elle' est palindrome ; 'usthb' n'est pas palindrome
+ exemple: "elle" est palindrome ; "usthb"  n'est pas palindrome
 
 sommedeschiffres.c:
  algorithme qui calcule la somme des chiffres d'un nombre. par exemple: 1234 la somme est 1+2+3+4 = 10
