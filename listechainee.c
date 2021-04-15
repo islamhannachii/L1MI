@@ -13,7 +13,7 @@ ________________________________________________________________________________
 typedef struct liste liste; // Type Enregistrement = liste :
 struct liste {              //      nbr: entier;
     int nbr;                //      svt: *liste
-    liste *svt;             // Fin. || On peut aussi écrire cette forme typedef struct liste *liste au lieu d'utlisier la chaque fois *liste on la remplace par liste direct
+    liste *svt;             // Fin. || On peut aussi écrire cette forme typedef struct liste *liste au lieu d'utlisier à chaque fois liste* on la remplace par liste direct
 };
 
 //DECLARATION DE NOTRE LISTE (GLOBALE)
